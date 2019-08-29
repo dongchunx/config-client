@@ -1,4 +1,4 @@
-config_word: New Word -- NEW!
+config_word: New Word -- NEW -- New!
 management:
   security:
     enabled: false
